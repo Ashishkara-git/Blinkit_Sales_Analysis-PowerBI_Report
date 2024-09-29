@@ -13,7 +13,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## Data Sources
 
-Blinkit Sales Data: The primary dataset used for this analysis is the [Blinkit_Sales.csv](https://docs.google.com/spreadsheets/d/1tdF_beuexr4n46cuZY8P-b8JCCYN-SNZ/edit?usp=drive_link&ouid=111771217751520040700&rtpof=true&sd=true) file, containing detailed information about hotel bookings.  
+Blinkit Sales Data: The primary dataset used for this analysis is the [Blinkit_Sales.csv](https://docs.google.com/spreadsheets/d/1tdF_beuexr4n46cuZY8P-b8JCCYN-SNZ/edit?usp=drive_link&ouid=111771217751520040700&rtpof=true&sd=true) file, containing detailed information about Blinkit Sales Data.  
 
 ## Tools
 
